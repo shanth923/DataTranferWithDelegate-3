@@ -1,0 +1,6 @@
+framework module Pods_DataTranferWithDelegate {
+  umbrella header "Pods-DataTranferWithDelegate-umbrella.h"
+
+  export *
+  module * { export * }
+}

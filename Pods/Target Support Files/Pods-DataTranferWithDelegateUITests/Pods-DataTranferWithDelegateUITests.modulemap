@@ -1,0 +1,6 @@
+framework module Pods_DataTranferWithDelegateUITests {
+  umbrella header "Pods-DataTranferWithDelegateUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
